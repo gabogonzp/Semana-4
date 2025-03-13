@@ -1903,3 +1903,52 @@
 2025-03-12 23:21:46 - WARNING - ALERTA: Temperatura ALTA (100.01°C) supera 100.0°C
 2025-03-12 23:21:46 - INFO - Temperatura: 38.42°C
 2025-03-12 23:21:46 - INFO - Monitoreo detenido.
+2025-03-13 00:21:38 - INFO - Temperatura: 41.58°C
+2025-03-13 00:21:38 - INFO - Temperatura: 22.57°C
+2025-03-13 00:21:38 - INFO - Temperatura: 124.47°C
+2025-03-13 00:21:38 - WARNING - ALERTA: Temperatura ALTA (124.47°C) supera 100.0°C
+2025-03-13 00:21:38 - ERROR - LLAMADO A BOMBEROS: Se ha generado una alerta crítica de temperatura.
+2025-03-13 00:21:38 - INFO - Temperatura: -8.61°C
+2025-03-13 00:21:38 - WARNING - ALERTA: Temperatura BAJA (-8.61°C) está por debajo de 2.0°C
+2025-03-13 00:21:38 - INFO - Temperatura: 154.04°C
+2025-03-13 00:21:38 - WARNING - ALERTA: Temperatura ALTA (154.04°C) supera 100.0°C
+2025-03-13 00:21:38 - INFO - Temperatura: 20.07°C
+2025-03-13 00:21:38 - INFO - Temperatura: 89.56°C
+2025-03-13 00:21:39 - INFO - Temperatura: 93.06°C
+2025-03-13 00:21:39 - INFO - Temperatura: -9.97°C
+2025-03-13 00:21:39 - WARNING - ALERTA: Temperatura BAJA (-9.97°C) está por debajo de 2.0°C
+2025-03-13 00:21:39 - INFO - Temperatura: 20.54°C
+2025-03-13 00:21:39 - INFO - Temperatura: 117.50°C
+2025-03-13 00:21:39 - WARNING - ALERTA: Temperatura ALTA (117.50°C) supera 100.0°C
+2025-03-13 00:21:39 - INFO - Temperatura: 165.54°C
+2025-03-13 00:21:39 - WARNING - ALERTA: Temperatura ALTA (165.54°C) supera 100.0°C
+2025-03-13 00:21:39 - INFO - Temperatura: 76.48°C
+2025-03-13 00:21:39 - INFO - Temperatura: 46.12°C
+2025-03-13 00:21:39 - INFO - Temperatura: 175.37°C
+2025-03-13 00:21:39 - WARNING - ALERTA: Temperatura ALTA (175.37°C) supera 100.0°C
+2025-03-13 00:21:40 - INFO - Temperatura: 179.94°C
+2025-03-13 00:21:40 - WARNING - ALERTA: Temperatura ALTA (179.94°C) supera 100.0°C
+2025-03-13 00:21:40 - INFO - Temperatura: 127.38°C
+2025-03-13 00:21:40 - WARNING - ALERTA: Temperatura ALTA (127.38°C) supera 100.0°C
+2025-03-13 00:21:40 - INFO - Temperatura: 8.80°C
+2025-03-13 00:21:40 - INFO - Temperatura: 148.11°C
+2025-03-13 00:21:40 - WARNING - ALERTA: Temperatura ALTA (148.11°C) supera 100.0°C
+2025-03-13 00:21:40 - INFO - Temperatura: 173.29°C
+2025-03-13 00:21:40 - WARNING - ALERTA: Temperatura ALTA (173.29°C) supera 100.0°C
+2025-03-13 00:21:40 - INFO - Temperatura: 5.79°C
+2025-03-13 00:21:40 - INFO - Temperatura: 172.53°C
+2025-03-13 00:21:40 - WARNING - ALERTA: Temperatura ALTA (172.53°C) supera 100.0°C
+2025-03-13 00:21:40 - INFO - Temperatura: 63.93°C
+2025-03-13 00:21:40 - INFO - Temperatura: 128.35°C
+2025-03-13 00:21:40 - WARNING - ALERTA: Temperatura ALTA (128.35°C) supera 100.0°C
+2025-03-13 00:21:41 - INFO - Temperatura: 144.42°C
+2025-03-13 00:21:41 - WARNING - ALERTA: Temperatura ALTA (144.42°C) supera 100.0°C
+2025-03-13 00:21:41 - INFO - Temperatura: 12.04°C
+2025-03-13 00:21:41 - INFO - Temperatura: 55.23°C
+2025-03-13 00:21:41 - INFO - Temperatura: 49.37°C
+2025-03-13 00:21:41 - INFO - Temperatura: 76.36°C
+2025-03-13 00:21:41 - INFO - Temperatura: 35.21°C
+2025-03-13 00:21:41 - INFO - Temperatura: 91.60°C
+2025-03-13 00:21:41 - INFO - Temperatura: 53.01°C
+2025-03-13 00:21:41 - INFO - Temperatura: 98.56°C
+2025-03-13 00:21:42 - INFO - Monitoreo detenido.
