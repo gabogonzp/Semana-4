@@ -22,12 +22,15 @@ class MonitorTemperatura:
         self.semaforo_alerta = threading.Semaphore(1)  
 
     def sensor_temperatura(self):
-        #Genera lecturas aleatorias de temperatura
-        while self.ejecutando:
-            temperatura = random.uniform(-10, 180)
-            timestamp = time.time()
-            self.temp_queue.put((temperatura, timestamp))
-            time.sleep(0.1) 
+        if not self.ejecutando:  # Condición base de la recursión
+            return  # Finaliza la ejecución
+
+        temperatura = random.uniform(-10, 180)
+        timestamp = time.time()
+        self.temp_queue.put((temperatura, timestamp))
+
+        time.sleep(0.1)  # Simula tiempo de espera entre mediciones
+        self.sensor_temperatura()  # Llamada recursiva
 
     def procesar_datos(self):
         #Procesa temperatura y chequea por alertas
