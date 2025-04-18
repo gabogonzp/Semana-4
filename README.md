@@ -20,4 +20,5 @@ procesar_datos(): Procesa los datos y verifica alertas.
 Gestión de Alertas:
 Se comparan los valores de temperatura con los umbrales establecidos.
 Si hay un riesgo extremo, se genera una alerta y se simula una llamada a bomberos.
+Se utiliza SQLite 3 para el almacenamiento de las alertas.
 

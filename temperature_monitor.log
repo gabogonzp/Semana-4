@@ -1952,3 +1952,428 @@
 2025-03-13 00:21:41 - INFO - Temperatura: 53.01°C
 2025-03-13 00:21:41 - INFO - Temperatura: 98.56°C
 2025-03-13 00:21:42 - INFO - Monitoreo detenido.
+2025-04-18 01:03:23 - INFO - Base de datos inicializada correctamente.
+2025-04-18 01:03:33 - INFO - Temperatura: 23.09°C
+2025-04-18 01:03:34 - INFO - Temperatura: 37.05°C
+2025-04-18 01:03:34 - INFO - Temperatura: 101.97°C
+2025-04-18 01:03:34 - WARNING - ALERTA: Temperatura ALTA (101.97°C) supera 100.0°C
+2025-04-18 01:03:34 - INFO - Alerta guardada en BD: 101.97°C - ALTA
+2025-04-18 01:03:34 - ERROR - LLAMADO A BOMBEROS: Se ha generado una alerta crítica de temperatura.
+2025-04-18 01:03:34 - INFO - Temperatura: 65.00°C
+2025-04-18 01:03:34 - INFO - Temperatura: 90.16°C
+2025-04-18 01:03:34 - INFO - Temperatura: 118.05°C
+2025-04-18 01:03:34 - WARNING - ALERTA: Temperatura ALTA (118.05°C) supera 100.0°C
+2025-04-18 01:03:34 - INFO - Alerta guardada en BD: 118.05°C - ALTA
+2025-04-18 01:03:34 - INFO - Temperatura: 148.60°C
+2025-04-18 01:03:34 - WARNING - ALERTA: Temperatura ALTA (148.60°C) supera 100.0°C
+2025-04-18 01:03:34 - INFO - Alerta guardada en BD: 148.60°C - ALTA
+2025-04-18 01:03:34 - INFO - Temperatura: 23.87°C
+2025-04-18 01:03:34 - INFO - Temperatura: 111.58°C
+2025-04-18 01:03:34 - WARNING - ALERTA: Temperatura ALTA (111.58°C) supera 100.0°C
+2025-04-18 01:03:34 - INFO - Alerta guardada en BD: 111.58°C - ALTA
+2025-04-18 01:03:34 - INFO - Temperatura: 106.18°C
+2025-04-18 01:03:34 - WARNING - ALERTA: Temperatura ALTA (106.18°C) supera 100.0°C
+2025-04-18 01:03:34 - INFO - Alerta guardada en BD: 106.18°C - ALTA
+2025-04-18 01:03:35 - INFO - Temperatura: 48.85°C
+2025-04-18 01:03:35 - INFO - Temperatura: 95.26°C
+2025-04-18 01:03:35 - INFO - Temperatura: 9.27°C
+2025-04-18 01:03:35 - INFO - Temperatura: 69.17°C
+2025-04-18 01:03:35 - INFO - Temperatura: 82.63°C
+2025-04-18 01:03:35 - INFO - Temperatura: 26.30°C
+2025-04-18 01:03:35 - INFO - Temperatura: 84.14°C
+2025-04-18 01:03:35 - INFO - Temperatura: 50.08°C
+2025-04-18 01:03:35 - INFO - Temperatura: 43.40°C
+2025-04-18 01:03:36 - INFO - Temperatura: 118.11°C
+2025-04-18 01:03:36 - WARNING - ALERTA: Temperatura ALTA (118.11°C) supera 100.0°C
+2025-04-18 01:03:36 - INFO - Alerta guardada en BD: 118.11°C - ALTA
+2025-04-18 01:03:36 - INFO - Temperatura: 69.25°C
+2025-04-18 01:03:36 - INFO - Temperatura: 123.88°C
+2025-04-18 01:03:36 - WARNING - ALERTA: Temperatura ALTA (123.88°C) supera 100.0°C
+2025-04-18 01:03:36 - INFO - Alerta guardada en BD: 123.88°C - ALTA
+2025-04-18 01:03:36 - INFO - Temperatura: 4.26°C
+2025-04-18 01:03:36 - INFO - Temperatura: 105.13°C
+2025-04-18 01:03:36 - WARNING - ALERTA: Temperatura ALTA (105.13°C) supera 100.0°C
+2025-04-18 01:03:36 - INFO - Alerta guardada en BD: 105.13°C - ALTA
+2025-04-18 01:03:36 - INFO - Temperatura: 26.05°C
+2025-04-18 01:03:36 - INFO - Temperatura: 14.41°C
+2025-04-18 01:03:36 - INFO - Temperatura: 59.24°C
+2025-04-18 01:03:36 - INFO - Temperatura: 117.34°C
+2025-04-18 01:03:36 - WARNING - ALERTA: Temperatura ALTA (117.34°C) supera 100.0°C
+2025-04-18 01:03:36 - INFO - Alerta guardada en BD: 117.34°C - ALTA
+2025-04-18 01:03:36 - INFO - Temperatura: 108.87°C
+2025-04-18 01:03:36 - WARNING - ALERTA: Temperatura ALTA (108.87°C) supera 100.0°C
+2025-04-18 01:03:36 - INFO - Alerta guardada en BD: 108.87°C - ALTA
+2025-04-18 01:03:37 - INFO - Temperatura: 92.37°C
+2025-04-18 01:03:37 - INFO - Temperatura: 32.54°C
+2025-04-18 01:03:37 - INFO - Temperatura: 15.63°C
+2025-04-18 01:03:37 - INFO - Temperatura: 128.22°C
+2025-04-18 01:03:37 - WARNING - ALERTA: Temperatura ALTA (128.22°C) supera 100.0°C
+2025-04-18 01:03:37 - INFO - Alerta guardada en BD: 128.22°C - ALTA
+2025-04-18 01:03:37 - INFO - Temperatura: 61.47°C
+2025-04-18 01:03:37 - INFO - Temperatura: 44.36°C
+2025-04-18 01:03:37 - INFO - Temperatura: 116.35°C
+2025-04-18 01:03:37 - WARNING - ALERTA: Temperatura ALTA (116.35°C) supera 100.0°C
+2025-04-18 01:03:37 - INFO - Alerta guardada en BD: 116.35°C - ALTA
+2025-04-18 01:03:37 - INFO - Temperatura: 13.72°C
+2025-04-18 01:03:38 - INFO - Temperatura: 170.05°C
+2025-04-18 01:03:38 - WARNING - ALERTA: Temperatura ALTA (170.05°C) supera 100.0°C
+2025-04-18 01:03:38 - INFO - Alerta guardada en BD: 170.05°C - ALTA
+2025-04-18 01:03:38 - INFO - Temperatura: 86.52°C
+2025-04-18 01:03:38 - INFO - Temperatura: 76.43°C
+2025-04-18 01:03:38 - INFO - Temperatura: -9.54°C
+2025-04-18 01:03:38 - WARNING - ALERTA: Temperatura BAJA (-9.54°C) está por debajo de 2.0°C
+2025-04-18 01:03:38 - INFO - Alerta guardada en BD: -9.54°C - BAJA
+2025-04-18 01:03:38 - INFO - Temperatura: 61.40°C
+2025-04-18 01:03:38 - INFO - Temperatura: 46.51°C
+2025-04-18 01:03:38 - INFO - Temperatura: -0.09°C
+2025-04-18 01:03:38 - WARNING - ALERTA: Temperatura BAJA (-0.09°C) está por debajo de 2.0°C
+2025-04-18 01:03:38 - INFO - Alerta guardada en BD: -0.09°C - BAJA
+2025-04-18 01:03:38 - INFO - Temperatura: 16.04°C
+2025-04-18 01:03:38 - INFO - Temperatura: 157.42°C
+2025-04-18 01:03:38 - WARNING - ALERTA: Temperatura ALTA (157.42°C) supera 100.0°C
+2025-04-18 01:03:38 - INFO - Alerta guardada en BD: 157.42°C - ALTA
+2025-04-18 01:03:39 - INFO - Temperatura: 63.74°C
+2025-04-18 01:03:39 - INFO - Temperatura: 127.84°C
+2025-04-18 01:03:39 - WARNING - ALERTA: Temperatura ALTA (127.84°C) supera 100.0°C
+2025-04-18 01:03:39 - INFO - Alerta guardada en BD: 127.84°C - ALTA
+2025-04-18 01:03:39 - INFO - Temperatura: 107.80°C
+2025-04-18 01:03:39 - WARNING - ALERTA: Temperatura ALTA (107.80°C) supera 100.0°C
+2025-04-18 01:03:39 - INFO - Alerta guardada en BD: 107.80°C - ALTA
+2025-04-18 01:03:39 - INFO - Temperatura: 95.77°C
+2025-04-18 01:03:39 - INFO - Temperatura: 127.88°C
+2025-04-18 01:03:39 - WARNING - ALERTA: Temperatura ALTA (127.88°C) supera 100.0°C
+2025-04-18 01:03:39 - INFO - Alerta guardada en BD: 127.88°C - ALTA
+2025-04-18 01:03:39 - INFO - Temperatura: 8.28°C
+2025-04-18 01:03:39 - INFO - Temperatura: 13.29°C
+2025-04-18 01:03:39 - INFO - Temperatura: 111.68°C
+2025-04-18 01:03:39 - WARNING - ALERTA: Temperatura ALTA (111.68°C) supera 100.0°C
+2025-04-18 01:03:39 - INFO - Alerta guardada en BD: 111.68°C - ALTA
+2025-04-18 01:03:39 - INFO - Temperatura: 15.47°C
+2025-04-18 01:03:40 - INFO - Temperatura: 33.51°C
+2025-04-18 01:03:40 - INFO - Temperatura: 89.40°C
+2025-04-18 01:03:40 - INFO - Temperatura: 58.49°C
+2025-04-18 01:03:40 - INFO - Temperatura: 53.05°C
+2025-04-18 01:03:40 - INFO - Temperatura: 37.16°C
+2025-04-18 01:03:40 - INFO - Temperatura: 80.82°C
+2025-04-18 01:03:40 - INFO - Temperatura: 55.91°C
+2025-04-18 01:03:40 - INFO - Temperatura: 119.11°C
+2025-04-18 01:03:40 - WARNING - ALERTA: Temperatura ALTA (119.11°C) supera 100.0°C
+2025-04-18 01:03:40 - INFO - Alerta guardada en BD: 119.11°C - ALTA
+2025-04-18 01:03:40 - INFO - Temperatura: 98.01°C
+2025-04-18 01:03:41 - INFO - Temperatura: 63.34°C
+2025-04-18 01:03:41 - INFO - Temperatura: 66.27°C
+2025-04-18 01:03:41 - INFO - Temperatura: 16.04°C
+2025-04-18 01:03:41 - INFO - Temperatura: 83.97°C
+2025-04-18 01:03:41 - INFO - Temperatura: 123.08°C
+2025-04-18 01:03:41 - WARNING - ALERTA: Temperatura ALTA (123.08°C) supera 100.0°C
+2025-04-18 01:03:41 - INFO - Alerta guardada en BD: 123.08°C - ALTA
+2025-04-18 01:03:41 - INFO - Temperatura: 92.62°C
+2025-04-18 01:03:41 - INFO - Temperatura: 9.60°C
+2025-04-18 01:03:41 - INFO - Temperatura: 76.29°C
+2025-04-18 01:03:41 - INFO - Temperatura: 68.47°C
+2025-04-18 01:03:42 - INFO - Temperatura: 70.61°C
+2025-04-18 01:03:42 - INFO - Temperatura: 78.86°C
+2025-04-18 01:03:42 - INFO - Temperatura: 178.01°C
+2025-04-18 01:03:42 - WARNING - ALERTA: Temperatura ALTA (178.01°C) supera 100.0°C
+2025-04-18 01:03:42 - INFO - Alerta guardada en BD: 178.01°C - ALTA
+2025-04-18 01:03:42 - INFO - Temperatura: -3.63°C
+2025-04-18 01:03:42 - WARNING - ALERTA: Temperatura BAJA (-3.63°C) está por debajo de 2.0°C
+2025-04-18 01:03:42 - INFO - Alerta guardada en BD: -3.63°C - BAJA
+2025-04-18 01:03:42 - INFO - Temperatura: -0.03°C
+2025-04-18 01:03:42 - WARNING - ALERTA: Temperatura BAJA (-0.03°C) está por debajo de 2.0°C
+2025-04-18 01:03:42 - INFO - Alerta guardada en BD: -0.03°C - BAJA
+2025-04-18 01:03:42 - INFO - Temperatura: 150.90°C
+2025-04-18 01:03:42 - WARNING - ALERTA: Temperatura ALTA (150.90°C) supera 100.0°C
+2025-04-18 01:03:42 - INFO - Alerta guardada en BD: 150.90°C - ALTA
+2025-04-18 01:03:42 - INFO - Temperatura: 92.06°C
+2025-04-18 01:03:42 - INFO - Temperatura: 131.54°C
+2025-04-18 01:03:42 - WARNING - ALERTA: Temperatura ALTA (131.54°C) supera 100.0°C
+2025-04-18 01:03:42 - INFO - Alerta guardada en BD: 131.54°C - ALTA
+2025-04-18 01:03:42 - INFO - Temperatura: 38.23°C
+2025-04-18 01:03:43 - INFO - Temperatura: 107.44°C
+2025-04-18 01:03:43 - WARNING - ALERTA: Temperatura ALTA (107.44°C) supera 100.0°C
+2025-04-18 01:03:43 - INFO - Alerta guardada en BD: 107.44°C - ALTA
+2025-04-18 01:03:43 - INFO - Temperatura: 106.52°C
+2025-04-18 01:03:43 - WARNING - ALERTA: Temperatura ALTA (106.52°C) supera 100.0°C
+2025-04-18 01:03:43 - INFO - Alerta guardada en BD: 106.52°C - ALTA
+2025-04-18 01:03:43 - INFO - Temperatura: 27.70°C
+2025-04-18 01:03:43 - INFO - Temperatura: 131.73°C
+2025-04-18 01:03:43 - WARNING - ALERTA: Temperatura ALTA (131.73°C) supera 100.0°C
+2025-04-18 01:03:43 - INFO - Alerta guardada en BD: 131.73°C - ALTA
+2025-04-18 01:03:43 - INFO - Temperatura: 117.54°C
+2025-04-18 01:03:43 - WARNING - ALERTA: Temperatura ALTA (117.54°C) supera 100.0°C
+2025-04-18 01:03:43 - INFO - Alerta guardada en BD: 117.54°C - ALTA
+2025-04-18 01:03:43 - INFO - Temperatura: 88.62°C
+2025-04-18 01:03:43 - INFO - Temperatura: 39.83°C
+2025-04-18 01:03:43 - INFO - Temperatura: 94.07°C
+2025-04-18 01:03:43 - INFO - Temperatura: 78.21°C
+2025-04-18 01:03:44 - INFO - Temperatura: 116.50°C
+2025-04-18 01:03:44 - WARNING - ALERTA: Temperatura ALTA (116.50°C) supera 100.0°C
+2025-04-18 01:03:44 - INFO - Alerta guardada en BD: 116.50°C - ALTA
+2025-04-18 01:03:44 - INFO - Temperatura: 26.29°C
+2025-04-18 01:03:44 - INFO - Temperatura: 153.40°C
+2025-04-18 01:03:44 - WARNING - ALERTA: Temperatura ALTA (153.40°C) supera 100.0°C
+2025-04-18 01:03:44 - INFO - Alerta guardada en BD: 153.40°C - ALTA
+2025-04-18 01:03:44 - INFO - Temperatura: 175.82°C
+2025-04-18 01:03:44 - WARNING - ALERTA: Temperatura ALTA (175.82°C) supera 100.0°C
+2025-04-18 01:03:44 - INFO - Alerta guardada en BD: 175.82°C - ALTA
+2025-04-18 01:03:44 - INFO - Temperatura: -6.70°C
+2025-04-18 01:03:44 - WARNING - ALERTA: Temperatura BAJA (-6.70°C) está por debajo de 2.0°C
+2025-04-18 01:03:44 - INFO - Alerta guardada en BD: -6.70°C - BAJA
+2025-04-18 01:03:44 - INFO - Temperatura: 68.76°C
+2025-04-18 01:03:44 - INFO - Temperatura: 119.14°C
+2025-04-18 01:03:44 - WARNING - ALERTA: Temperatura ALTA (119.14°C) supera 100.0°C
+2025-04-18 01:03:44 - INFO - Alerta guardada en BD: 119.14°C - ALTA
+2025-04-18 01:03:44 - INFO - Temperatura: -3.27°C
+2025-04-18 01:03:44 - WARNING - ALERTA: Temperatura BAJA (-3.27°C) está por debajo de 2.0°C
+2025-04-18 01:03:44 - INFO - Alerta guardada en BD: -3.27°C - BAJA
+2025-04-18 01:03:44 - INFO - Temperatura: 119.50°C
+2025-04-18 01:03:44 - WARNING - ALERTA: Temperatura ALTA (119.50°C) supera 100.0°C
+2025-04-18 01:03:44 - INFO - Alerta guardada en BD: 119.50°C - ALTA
+2025-04-18 01:03:45 - INFO - Temperatura: 61.89°C
+2025-04-18 01:03:45 - INFO - Temperatura: 116.75°C
+2025-04-18 01:03:45 - WARNING - ALERTA: Temperatura ALTA (116.75°C) supera 100.0°C
+2025-04-18 01:03:45 - INFO - Alerta guardada en BD: 116.75°C - ALTA
+2025-04-18 01:03:45 - INFO - Temperatura: 70.94°C
+2025-04-18 01:03:45 - INFO - Temperatura: 119.43°C
+2025-04-18 01:03:45 - WARNING - ALERTA: Temperatura ALTA (119.43°C) supera 100.0°C
+2025-04-18 01:03:45 - INFO - Alerta guardada en BD: 119.43°C - ALTA
+2025-04-18 01:03:45 - INFO - Temperatura: 89.78°C
+2025-04-18 01:03:45 - INFO - Temperatura: 175.47°C
+2025-04-18 01:03:45 - WARNING - ALERTA: Temperatura ALTA (175.47°C) supera 100.0°C
+2025-04-18 01:03:45 - INFO - Alerta guardada en BD: 175.47°C - ALTA
+2025-04-18 01:03:45 - INFO - Temperatura: 77.38°C
+2025-04-18 01:03:45 - INFO - Temperatura: 135.26°C
+2025-04-18 01:03:45 - WARNING - ALERTA: Temperatura ALTA (135.26°C) supera 100.0°C
+2025-04-18 01:03:45 - INFO - Alerta guardada en BD: 135.26°C - ALTA
+2025-04-18 01:03:46 - INFO - Temperatura: 107.50°C
+2025-04-18 01:03:46 - WARNING - ALERTA: Temperatura ALTA (107.50°C) supera 100.0°C
+2025-04-18 01:03:46 - INFO - Alerta guardada en BD: 107.50°C - ALTA
+2025-04-18 01:03:46 - INFO - Temperatura: 103.94°C
+2025-04-18 01:03:46 - WARNING - ALERTA: Temperatura ALTA (103.94°C) supera 100.0°C
+2025-04-18 01:03:46 - INFO - Alerta guardada en BD: 103.94°C - ALTA
+2025-04-18 01:03:46 - INFO - Temperatura: 86.87°C
+2025-04-18 01:03:46 - INFO - Temperatura: 46.53°C
+2025-04-18 01:03:46 - INFO - Temperatura: 136.67°C
+2025-04-18 01:03:46 - WARNING - ALERTA: Temperatura ALTA (136.67°C) supera 100.0°C
+2025-04-18 01:03:46 - INFO - Alerta guardada en BD: 136.67°C - ALTA
+2025-04-18 01:03:46 - INFO - Temperatura: 46.62°C
+2025-04-18 01:03:46 - INFO - Temperatura: 105.19°C
+2025-04-18 01:03:46 - WARNING - ALERTA: Temperatura ALTA (105.19°C) supera 100.0°C
+2025-04-18 01:03:46 - INFO - Alerta guardada en BD: 105.19°C - ALTA
+2025-04-18 01:03:46 - INFO - Temperatura: 148.25°C
+2025-04-18 01:03:46 - WARNING - ALERTA: Temperatura ALTA (148.25°C) supera 100.0°C
+2025-04-18 01:03:46 - INFO - Alerta guardada en BD: 148.25°C - ALTA
+2025-04-18 01:03:46 - INFO - Temperatura: 69.68°C
+2025-04-18 01:03:47 - INFO - Temperatura: 130.54°C
+2025-04-18 01:03:47 - WARNING - ALERTA: Temperatura ALTA (130.54°C) supera 100.0°C
+2025-04-18 01:03:47 - INFO - Alerta guardada en BD: 130.54°C - ALTA
+2025-04-18 01:03:47 - INFO - Temperatura: 69.73°C
+2025-04-18 01:03:47 - INFO - Temperatura: 135.07°C
+2025-04-18 01:03:47 - WARNING - ALERTA: Temperatura ALTA (135.07°C) supera 100.0°C
+2025-04-18 01:03:47 - INFO - Alerta guardada en BD: 135.07°C - ALTA
+2025-04-18 01:03:47 - INFO - Temperatura: 132.88°C
+2025-04-18 01:03:47 - WARNING - ALERTA: Temperatura ALTA (132.88°C) supera 100.0°C
+2025-04-18 01:03:47 - INFO - Alerta guardada en BD: 132.88°C - ALTA
+2025-04-18 01:03:47 - INFO - Temperatura: 63.10°C
+2025-04-18 01:03:47 - INFO - Temperatura: 65.93°C
+2025-04-18 01:03:47 - INFO - Temperatura: 124.07°C
+2025-04-18 01:03:47 - WARNING - ALERTA: Temperatura ALTA (124.07°C) supera 100.0°C
+2025-04-18 01:03:47 - INFO - Alerta guardada en BD: 124.07°C - ALTA
+2025-04-18 01:03:47 - INFO - Temperatura: 153.16°C
+2025-04-18 01:03:47 - WARNING - ALERTA: Temperatura ALTA (153.16°C) supera 100.0°C
+2025-04-18 01:03:47 - INFO - Alerta guardada en BD: 153.16°C - ALTA
+2025-04-18 01:03:47 - INFO - Temperatura: -9.18°C
+2025-04-18 01:03:47 - WARNING - ALERTA: Temperatura BAJA (-9.18°C) está por debajo de 2.0°C
+2025-04-18 01:03:47 - INFO - Alerta guardada en BD: -9.18°C - BAJA
+2025-04-18 01:03:48 - INFO - Temperatura: 92.42°C
+2025-04-18 01:03:48 - INFO - Temperatura: 44.43°C
+2025-04-18 01:03:48 - INFO - Temperatura: 30.39°C
+2025-04-18 01:03:48 - INFO - Temperatura: 87.08°C
+2025-04-18 01:03:48 - INFO - Temperatura: 134.63°C
+2025-04-18 01:03:48 - WARNING - ALERTA: Temperatura ALTA (134.63°C) supera 100.0°C
+2025-04-18 01:03:48 - INFO - Alerta guardada en BD: 134.63°C - ALTA
+2025-04-18 01:03:48 - INFO - Temperatura: 72.70°C
+2025-04-18 01:03:48 - INFO - Temperatura: 149.45°C
+2025-04-18 01:03:48 - WARNING - ALERTA: Temperatura ALTA (149.45°C) supera 100.0°C
+2025-04-18 01:03:48 - INFO - Alerta guardada en BD: 149.45°C - ALTA
+2025-04-18 01:03:48 - INFO - Temperatura: 114.30°C
+2025-04-18 01:03:48 - WARNING - ALERTA: Temperatura ALTA (114.30°C) supera 100.0°C
+2025-04-18 01:03:48 - INFO - Alerta guardada en BD: 114.30°C - ALTA
+2025-04-18 01:03:49 - INFO - Temperatura: -3.24°C
+2025-04-18 01:03:49 - WARNING - ALERTA: Temperatura BAJA (-3.24°C) está por debajo de 2.0°C
+2025-04-18 01:03:49 - INFO - Alerta guardada en BD: -3.24°C - BAJA
+2025-04-18 01:03:49 - INFO - Temperatura: 60.97°C
+2025-04-18 01:03:49 - INFO - Temperatura: 168.93°C
+2025-04-18 01:03:49 - WARNING - ALERTA: Temperatura ALTA (168.93°C) supera 100.0°C
+2025-04-18 01:03:49 - INFO - Alerta guardada en BD: 168.93°C - ALTA
+2025-04-18 01:03:49 - INFO - Temperatura: 162.61°C
+2025-04-18 01:03:49 - WARNING - ALERTA: Temperatura ALTA (162.61°C) supera 100.0°C
+2025-04-18 01:03:49 - INFO - Alerta guardada en BD: 162.61°C - ALTA
+2025-04-18 01:03:49 - INFO - Temperatura: 174.71°C
+2025-04-18 01:03:49 - WARNING - ALERTA: Temperatura ALTA (174.71°C) supera 100.0°C
+2025-04-18 01:03:49 - INFO - Alerta guardada en BD: 174.71°C - ALTA
+2025-04-18 01:03:49 - INFO - Temperatura: 7.93°C
+2025-04-18 01:03:49 - INFO - Temperatura: 34.81°C
+2025-04-18 01:03:49 - INFO - Temperatura: 151.41°C
+2025-04-18 01:03:49 - WARNING - ALERTA: Temperatura ALTA (151.41°C) supera 100.0°C
+2025-04-18 01:03:49 - INFO - Alerta guardada en BD: 151.41°C - ALTA
+2025-04-18 01:03:49 - INFO - Temperatura: 52.18°C
+2025-04-18 01:03:50 - INFO - Temperatura: 123.20°C
+2025-04-18 01:03:50 - WARNING - ALERTA: Temperatura ALTA (123.20°C) supera 100.0°C
+2025-04-18 01:03:50 - INFO - Alerta guardada en BD: 123.20°C - ALTA
+2025-04-18 01:03:50 - INFO - Temperatura: 92.64°C
+2025-04-18 01:03:50 - INFO - Temperatura: 31.44°C
+2025-04-18 01:03:50 - INFO - Temperatura: 131.76°C
+2025-04-18 01:03:50 - WARNING - ALERTA: Temperatura ALTA (131.76°C) supera 100.0°C
+2025-04-18 01:03:50 - INFO - Alerta guardada en BD: 131.76°C - ALTA
+2025-04-18 01:03:50 - INFO - Temperatura: 87.56°C
+2025-04-18 01:03:50 - INFO - Temperatura: 71.87°C
+2025-04-18 01:03:50 - INFO - Temperatura: 94.66°C
+2025-04-18 01:03:50 - INFO - Temperatura: 120.58°C
+2025-04-18 01:03:50 - WARNING - ALERTA: Temperatura ALTA (120.58°C) supera 100.0°C
+2025-04-18 01:03:50 - INFO - Alerta guardada en BD: 120.58°C - ALTA
+2025-04-18 01:03:50 - INFO - Temperatura: 98.80°C
+2025-04-18 01:03:51 - INFO - Temperatura: 3.73°C
+2025-04-18 01:03:51 - INFO - Temperatura: 15.11°C
+2025-04-18 01:03:51 - INFO - Temperatura: 140.11°C
+2025-04-18 01:03:51 - WARNING - ALERTA: Temperatura ALTA (140.11°C) supera 100.0°C
+2025-04-18 01:03:51 - INFO - Alerta guardada en BD: 140.11°C - ALTA
+2025-04-18 01:03:51 - INFO - Temperatura: 119.13°C
+2025-04-18 01:03:51 - WARNING - ALERTA: Temperatura ALTA (119.13°C) supera 100.0°C
+2025-04-18 01:03:51 - INFO - Alerta guardada en BD: 119.13°C - ALTA
+2025-04-18 01:03:51 - INFO - Temperatura: 60.75°C
+2025-04-18 01:03:51 - INFO - Temperatura: 3.11°C
+2025-04-18 01:03:51 - INFO - Temperatura: 124.32°C
+2025-04-18 01:03:51 - WARNING - ALERTA: Temperatura ALTA (124.32°C) supera 100.0°C
+2025-04-18 01:03:51 - INFO - Alerta guardada en BD: 124.32°C - ALTA
+2025-04-18 01:03:51 - INFO - Temperatura: 19.35°C
+2025-04-18 01:03:52 - INFO - Temperatura: -3.67°C
+2025-04-18 01:03:52 - WARNING - ALERTA: Temperatura BAJA (-3.67°C) está por debajo de 2.0°C
+2025-04-18 01:03:52 - INFO - Alerta guardada en BD: -3.67°C - BAJA
+2025-04-18 01:03:52 - INFO - Temperatura: 167.72°C
+2025-04-18 01:03:52 - WARNING - ALERTA: Temperatura ALTA (167.72°C) supera 100.0°C
+2025-04-18 01:03:52 - INFO - Alerta guardada en BD: 167.72°C - ALTA
+2025-04-18 01:03:52 - INFO - Temperatura: 173.46°C
+2025-04-18 01:03:52 - WARNING - ALERTA: Temperatura ALTA (173.46°C) supera 100.0°C
+2025-04-18 01:03:52 - INFO - Alerta guardada en BD: 173.46°C - ALTA
+2025-04-18 01:03:52 - INFO - Temperatura: 96.33°C
+2025-04-18 01:03:52 - INFO - Temperatura: 10.95°C
+2025-04-18 01:03:52 - INFO - Temperatura: 84.66°C
+2025-04-18 01:03:52 - INFO - Temperatura: 133.68°C
+2025-04-18 01:03:52 - WARNING - ALERTA: Temperatura ALTA (133.68°C) supera 100.0°C
+2025-04-18 01:03:52 - INFO - Alerta guardada en BD: 133.68°C - ALTA
+2025-04-18 01:03:52 - INFO - Temperatura: 2.07°C
+2025-04-18 01:03:53 - INFO - Temperatura: 125.70°C
+2025-04-18 01:03:53 - WARNING - ALERTA: Temperatura ALTA (125.70°C) supera 100.0°C
+2025-04-18 01:03:53 - INFO - Alerta guardada en BD: 125.70°C - ALTA
+2025-04-18 01:03:53 - INFO - Temperatura: 143.50°C
+2025-04-18 01:03:53 - WARNING - ALERTA: Temperatura ALTA (143.50°C) supera 100.0°C
+2025-04-18 01:03:53 - INFO - Alerta guardada en BD: 143.50°C - ALTA
+2025-04-18 01:03:53 - INFO - Temperatura: 49.77°C
+2025-04-18 01:03:53 - INFO - Temperatura: 89.85°C
+2025-04-18 01:03:53 - INFO - Temperatura: 145.26°C
+2025-04-18 01:03:53 - WARNING - ALERTA: Temperatura ALTA (145.26°C) supera 100.0°C
+2025-04-18 01:03:53 - INFO - Alerta guardada en BD: 145.26°C - ALTA
+2025-04-18 01:03:53 - INFO - Temperatura: 106.46°C
+2025-04-18 01:03:53 - WARNING - ALERTA: Temperatura ALTA (106.46°C) supera 100.0°C
+2025-04-18 01:03:53 - INFO - Alerta guardada en BD: 106.46°C - ALTA
+2025-04-18 01:03:53 - INFO - Temperatura: 49.92°C
+2025-04-18 01:03:53 - INFO - Temperatura: 28.43°C
+2025-04-18 01:03:53 - INFO - Temperatura: 114.88°C
+2025-04-18 01:03:53 - WARNING - ALERTA: Temperatura ALTA (114.88°C) supera 100.0°C
+2025-04-18 01:03:53 - INFO - Alerta guardada en BD: 114.88°C - ALTA
+2025-04-18 01:03:54 - INFO - Temperatura: -0.61°C
+2025-04-18 01:03:54 - WARNING - ALERTA: Temperatura BAJA (-0.61°C) está por debajo de 2.0°C
+2025-04-18 01:03:54 - INFO - Alerta guardada en BD: -0.61°C - BAJA
+2025-04-18 01:03:54 - INFO - Temperatura: 122.62°C
+2025-04-18 01:03:54 - WARNING - ALERTA: Temperatura ALTA (122.62°C) supera 100.0°C
+2025-04-18 01:03:54 - INFO - Alerta guardada en BD: 122.62°C - ALTA
+2025-04-18 01:03:54 - INFO - Temperatura: 35.08°C
+2025-04-18 01:03:54 - INFO - Temperatura: 39.01°C
+2025-04-18 01:03:54 - INFO - Temperatura: 55.42°C
+2025-04-18 01:03:54 - INFO - Temperatura: 31.55°C
+2025-04-18 01:03:54 - INFO - Temperatura: 67.73°C
+2025-04-18 01:03:55 - INFO - Temperatura: 174.84°C
+2025-04-18 01:03:55 - WARNING - ALERTA: Temperatura ALTA (174.84°C) supera 100.0°C
+2025-04-18 01:03:55 - INFO - Alerta guardada en BD: 174.84°C - ALTA
+2025-04-18 01:03:55 - INFO - Temperatura: 151.16°C
+2025-04-18 01:03:55 - WARNING - ALERTA: Temperatura ALTA (151.16°C) supera 100.0°C
+2025-04-18 01:03:55 - INFO - Alerta guardada en BD: 151.16°C - ALTA
+2025-04-18 01:03:55 - INFO - Temperatura: 11.72°C
+2025-04-18 01:03:55 - INFO - Temperatura: 28.14°C
+2025-04-18 01:03:55 - INFO - Temperatura: -0.49°C
+2025-04-18 01:03:55 - WARNING - ALERTA: Temperatura BAJA (-0.49°C) está por debajo de 2.0°C
+2025-04-18 01:03:55 - INFO - Alerta guardada en BD: -0.49°C - BAJA
+2025-04-18 01:03:55 - INFO - Temperatura: -2.19°C
+2025-04-18 01:03:55 - WARNING - ALERTA: Temperatura BAJA (-2.19°C) está por debajo de 2.0°C
+2025-04-18 01:03:55 - INFO - Alerta guardada en BD: -2.19°C - BAJA
+2025-04-18 01:03:55 - INFO - Temperatura: 135.56°C
+2025-04-18 01:03:55 - WARNING - ALERTA: Temperatura ALTA (135.56°C) supera 100.0°C
+2025-04-18 01:03:55 - INFO - Alerta guardada en BD: 135.56°C - ALTA
+2025-04-18 01:03:55 - INFO - Temperatura: -4.87°C
+2025-04-18 01:03:55 - WARNING - ALERTA: Temperatura BAJA (-4.87°C) está por debajo de 2.0°C
+2025-04-18 01:03:55 - INFO - Alerta guardada en BD: -4.87°C - BAJA
+2025-04-18 01:03:55 - INFO - Temperatura: 97.99°C
+2025-04-18 01:03:56 - INFO - Temperatura: 125.61°C
+2025-04-18 01:03:56 - WARNING - ALERTA: Temperatura ALTA (125.61°C) supera 100.0°C
+2025-04-18 01:03:56 - INFO - Alerta guardada en BD: 125.61°C - ALTA
+2025-04-18 01:03:56 - INFO - Temperatura: 146.65°C
+2025-04-18 01:03:56 - WARNING - ALERTA: Temperatura ALTA (146.65°C) supera 100.0°C
+2025-04-18 01:03:56 - INFO - Alerta guardada en BD: 146.65°C - ALTA
+2025-04-18 01:03:56 - INFO - Temperatura: 175.91°C
+2025-04-18 01:03:56 - WARNING - ALERTA: Temperatura ALTA (175.91°C) supera 100.0°C
+2025-04-18 01:03:56 - INFO - Alerta guardada en BD: 175.91°C - ALTA
+2025-04-18 01:03:56 - INFO - Temperatura: -6.93°C
+2025-04-18 01:03:56 - WARNING - ALERTA: Temperatura BAJA (-6.93°C) está por debajo de 2.0°C
+2025-04-18 01:03:56 - INFO - Alerta guardada en BD: -6.93°C - BAJA
+2025-04-18 01:03:56 - INFO - Temperatura: 126.08°C
+2025-04-18 01:03:56 - WARNING - ALERTA: Temperatura ALTA (126.08°C) supera 100.0°C
+2025-04-18 01:03:56 - INFO - Alerta guardada en BD: 126.08°C - ALTA
+2025-04-18 01:03:56 - INFO - Temperatura: 112.37°C
+2025-04-18 01:03:56 - WARNING - ALERTA: Temperatura ALTA (112.37°C) supera 100.0°C
+2025-04-18 01:03:56 - INFO - Alerta guardada en BD: 112.37°C - ALTA
+2025-04-18 01:03:56 - INFO - Temperatura: 78.14°C
+2025-04-18 01:03:56 - INFO - Temperatura: 59.26°C
+2025-04-18 01:03:56 - INFO - Temperatura: 138.39°C
+2025-04-18 01:03:56 - WARNING - ALERTA: Temperatura ALTA (138.39°C) supera 100.0°C
+2025-04-18 01:03:56 - INFO - Alerta guardada en BD: 138.39°C - ALTA
+2025-04-18 01:03:57 - INFO - Temperatura: 145.96°C
+2025-04-18 01:03:57 - WARNING - ALERTA: Temperatura ALTA (145.96°C) supera 100.0°C
+2025-04-18 01:03:57 - INFO - Alerta guardada en BD: 145.96°C - ALTA
+2025-04-18 01:03:57 - INFO - Temperatura: 14.20°C
+2025-04-18 01:03:57 - INFO - Temperatura: 143.47°C
+2025-04-18 01:03:57 - WARNING - ALERTA: Temperatura ALTA (143.47°C) supera 100.0°C
+2025-04-18 01:03:57 - INFO - Alerta guardada en BD: 143.47°C - ALTA
+2025-04-18 01:03:57 - INFO - Temperatura: 7.33°C
+2025-04-18 01:03:57 - INFO - Temperatura: 6.76°C
+2025-04-18 01:03:57 - INFO - Temperatura: 152.94°C
+2025-04-18 01:03:57 - WARNING - ALERTA: Temperatura ALTA (152.94°C) supera 100.0°C
+2025-04-18 01:03:57 - INFO - Alerta guardada en BD: 152.94°C - ALTA
+2025-04-18 01:03:57 - INFO - Temperatura: 88.32°C
+2025-04-18 01:03:57 - INFO - Temperatura: 159.59°C
+2025-04-18 01:03:57 - WARNING - ALERTA: Temperatura ALTA (159.59°C) supera 100.0°C
+2025-04-18 01:03:57 - INFO - Alerta guardada en BD: 159.59°C - ALTA
+2025-04-18 01:03:57 - INFO - Temperatura: 142.21°C
+2025-04-18 01:03:57 - WARNING - ALERTA: Temperatura ALTA (142.21°C) supera 100.0°C
+2025-04-18 01:03:58 - INFO - Alerta guardada en BD: 142.21°C - ALTA
+2025-04-18 01:03:58 - INFO - Temperatura: -7.01°C
+2025-04-18 01:03:58 - WARNING - ALERTA: Temperatura BAJA (-7.01°C) está por debajo de 2.0°C
+2025-04-18 01:03:58 - INFO - Alerta guardada en BD: -7.01°C - BAJA
+2025-04-18 01:03:58 - INFO - Temperatura: 50.61°C
+2025-04-18 01:03:58 - INFO - Temperatura: 167.99°C
+2025-04-18 01:03:58 - WARNING - ALERTA: Temperatura ALTA (167.99°C) supera 100.0°C
+2025-04-18 01:03:58 - INFO - Alerta guardada en BD: 167.99°C - ALTA
+2025-04-18 01:03:58 - INFO - Temperatura: 160.63°C
+2025-04-18 01:03:58 - WARNING - ALERTA: Temperatura ALTA (160.63°C) supera 100.0°C
+2025-04-18 01:03:58 - INFO - Alerta guardada en BD: 160.63°C - ALTA
+2025-04-18 01:03:58 - INFO - Temperatura: 30.80°C
+2025-04-18 01:03:58 - INFO - Temperatura: 129.28°C
+2025-04-18 01:03:58 - WARNING - ALERTA: Temperatura ALTA (129.28°C) supera 100.0°C
+2025-04-18 01:03:58 - INFO - Alerta guardada en BD: 129.28°C - ALTA
+2025-04-18 01:03:58 - INFO - Temperatura: 12.36°C
+2025-04-18 01:03:58 - INFO - Temperatura: 151.90°C
+2025-04-18 01:03:58 - WARNING - ALERTA: Temperatura ALTA (151.90°C) supera 100.0°C
+2025-04-18 01:03:58 - INFO - Alerta guardada en BD: 151.90°C - ALTA
+2025-04-18 01:03:59 - INFO - Temperatura: 48.94°C
+2025-04-18 01:03:59 - INFO - Monitoreo detenido.
